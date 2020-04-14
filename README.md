@@ -12,7 +12,7 @@ When trying to connect remotely to your Heroku database on an open network such 
 
 This is the home page:
 
-![Home Screenshot](./photo/buger.png)
+![Home Screenshot](./photo/burger.png)
 
 
 ### Important
